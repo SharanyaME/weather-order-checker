@@ -1,0 +1,34 @@
+This log documents how AI tools were used to assist in understanding concepts and implementing the solution.
+
+Prompt 1:
+"How to fetch multiple API calls in parallel using Promise.all in JavaScript?"
+
+Purpose:
+To understand how to implement concurrent API calls instead of sequential execution for better performance.
+
+
+Prompt 2:
+"How to handle API errors gracefully in Node.js so that the program does not crash?"
+
+Purpose:
+To implement proper error handling for invalid city cases like 'InvalidCity123' while ensuring the script continues execution.
+
+
+Prompt 3:
+"How to read environment variables using dotenv in Node.js?"
+
+Purpose:
+To securely store and access the OpenWeather API key using a .env file instead of hardcoding it.
+
+
+Prompt 4:
+"Generate a polite customer apology message for delayed delivery due to bad weather."
+
+Purpose:
+To create a dynamic, personalized, and user-friendly delay message for customers.
+
+Prompt 5:
+"How to read and write JSON files using fs module in Node.js?"
+
+Purpose:
+To load order data from orders.json and update the file after processing weather conditions.
